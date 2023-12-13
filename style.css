@@ -13,7 +13,6 @@
     color: #162A72;
     font-family: 'Moul'; 
     font-size: 36px;
-    text-shadow: 0 0 3px #162A72;
   }
   .navsec {
       background-color: white ;
@@ -25,5 +24,8 @@
   }
   .hoverglow:hover {
     background-color: #FDF4DC;
+  }
+  .hone {
+    font-family: 'Mountains of Christmas';
   }
 
