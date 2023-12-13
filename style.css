@@ -1,0 +1,29 @@
+.body {
+    background-color: #405685;
+  }
+  .navbutton {
+    background-color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+  .navtext {
+    color: #162A72;
+    font-family: 'Moul'; 
+    font-size: 36px;
+    text-shadow: 0 0 3px #162A72;
+  }
+  .navsec {
+      background-color: white ;
+     border:1px solid black;
+     padding: 32px 8px;
+  }
+  .glow {
+    background-color: #FDF4DC;
+  }
+  .hoverglow:hover {
+    background-color: #FDF4DC;
+  }
+
