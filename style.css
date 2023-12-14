@@ -50,7 +50,9 @@
   color: white;
   text-align: center;
 }
-
+.colpadding {
+  padding-bottom: 40%;
+}
 
 
 
@@ -80,6 +82,11 @@
     color: white;
     text-align: center;
     padding-top: 5% ;
+    padding-bottom: 5%;
  }
-  
+.hfive {
+font-family: 'Moul'; 
+color: black;
+padding-top: 2%;
+}
 
