@@ -25,7 +25,61 @@
   .hoverglow:hover {
     background-color: #FDF4DC;
   }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  .logoimg {
+    padding-top: 5%;
+  }
+  .footer1 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #D6001C;
+    color: white;
+    text-align: center;
+ }
+ .footer2 {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #00873E;
+  color: white;
+  text-align: center;
+}
+
+
+
+
   .hone {
     font-family: 'Mountains of Christmas';
+    font-size: 32px;
+    color: black;
+    text-align: center;
+    padding-top: 5%;
   }
+  .htwo {
+    font-family: 'Moulpali';
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    padding-top: 5%;
+  }
+ .hthree {
+  font-family: 'Mountains of Christmas';
+    font-size: 64px;
+    color: white;
+    text-align: center;
+ }
+ .hfour {
+  font-family: 'Mountains of Christmas';
+    font-size: 72px;
+    color: white;
+    text-align: center;
+    padding-top: 5% ;
+ }
+  
 
