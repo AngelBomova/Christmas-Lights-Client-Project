@@ -32,6 +32,15 @@
   .logoimg {
     padding-top: 5%;
   }
+  .socialimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    padding-top: 10%;
+      }
   .footer1 {
     position: fixed;
     left: 0;
