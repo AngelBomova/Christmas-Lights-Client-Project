@@ -41,6 +41,16 @@
     height: auto;
     padding-top: 10%;
       }
+      .herebutton {
+        background-color: #00873E; 
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
   .footer1 {
     position: fixed;
     left: 0;
@@ -98,4 +108,15 @@ font-family: 'Moul';
 color: black;
 padding-top: 2%;
 }
-
+.hsix {
+  font-family: 'Mountains of Christmas';
+    font-size: 64px;
+    color: white;
+    padding-left: 2%;
+    text-align: center;
+ }
+.hseven{
+  font-family: 'Moul'; 
+color: white;
+padding-top: 2%;
+}
